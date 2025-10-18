@@ -6,9 +6,13 @@ The clock updates dynamically every second using JavaScript’s setInterval() fu
 🚀 Features
 
 ✅ Displays the current time in hours, minutes, and seconds
+
 ✅ Automatically updates every second (no refresh needed)
+
 ✅ Includes a countdown timer — enter minutes and watch it count down
+
 ✅ Visually appealing modern UI design with hover and glow effects
+
 ✅ Fully responsive (works on desktop, tablet, and mobile)
 
 🛠️ Technologies Used
